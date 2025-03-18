@@ -14,14 +14,14 @@ namespace HelloWorld_ASP_Razor_2.Pages
 
         public string Result { get; set; }
 
-        //some changes
+
 
         public void OnGet()
         {
 
         }
 
-
+        //some more changes
         public void OnPost()
         {
 
