@@ -21,7 +21,7 @@ namespace HelloWorld_ASP_Razor_2.Pages
 
         }
 
-        //some more changes
+
         public void OnPost()
         {
 
